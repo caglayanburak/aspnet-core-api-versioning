@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/apiVersionSample/bin/Debug/netcoreapp2.2/apiVersionSample.deps.json
+/Users/burakcaglayan/Projects/apiVersionSample/bin/Debug/netcoreapp2.2/apiVersionSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/apiVersionSample/bin/Debug/netcoreapp2.2/apiVersionSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/apiVersionSample/bin/Debug/netcoreapp2.2/apiVersionSample.dll
+/Users/burakcaglayan/Projects/apiVersionSample/bin/Debug/netcoreapp2.2/apiVersionSample.pdb
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.dll
+/Users/burakcaglayan/Projects/apiVersionSample/obj/Debug/netcoreapp2.2/apiVersionSample.pdb
